@@ -1,0 +1,8 @@
+Good Evening..
+
+Please find below Latest Corona update in your country
+
+overall :{}
+confirmedCasesForeign ={}
+confirmedCasesIndian={}
+deaths={}

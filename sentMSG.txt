@@ -1,0 +1,85 @@
+last updated data is on Sun Apr 19 20:12:04 2020 
+
+total: 16116
+confirmedCasesIndian: 16039
+confirmedCasesForeign: 77
+discharged: 2302
+deaths: 519
+confirmedButLocationUnidentified: 0
+
+loc: Andaman and Nicobar Islands
+confirmedCasesIndian: 14
+discharged: 11
+deaths: 0
+confirmedCasesForeign: 0
+totalConfirmed: 14
+
+loc: Andhra Pradesh
+confirmedCasesIndian: 603
+discharged: 42
+deaths: 15
+confirmedCasesForeign: 0
+totalConfirmed: 603
+
+loc: Arunachal Pradesh
+confirmedCasesIndian: 1
+discharged: 0
+deaths: 0
+confirmedCasesForeign: 0
+totalConfirmed: 1
+
+loc: Assam
+confirmedCasesIndian: 35
+discharged: 12
+deaths: 1
+confirmedCasesForeign: 0
+totalConfirmed: 35
+
+loc: Bihar
+confirmedCasesIndian: 86
+discharged: 37
+deaths: 2
+confirmedCasesForeign: 0
+totalConfirmed: 86
+
+loc: Chandigarh
+confirmedCasesIndian: 23
+discharged: 10
+deaths: 0
+confirmedCasesForeign: 0
+totalConfirmed: 23
+
+loc: Chhattisgarh
+confirmedCasesIndian: 36
+discharged: 24
+deaths: 0
+confirmedCasesForeign: 0
+totalConfirmed: 36
+
+loc: Delhi
+confirmedCasesIndian: 1892
+discharged: 72
+deaths: 43
+confirmedCasesForeign: 1
+totalConfirmed: 1893
+
+loc: Goa
+confirmedCasesIndian: 6
+discharged: 6
+deaths: 0
+confirmedCasesForeign: 1
+totalConfirmed: 7
+
+loc: Gujarat
+confirmedCasesIndian: 1603
+discharged: 94
+deaths: 58
+confirmedCasesForeign: 1
+totalConfirmed: 1604
+
+loc: Haryana
+confirmedCasesIndian: 219
+discharged: 87
+deaths: 3
+confirmedCasesForeign: 14
+totalConfirmed: 233
